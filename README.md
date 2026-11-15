@@ -1,3 +1,4 @@
+ 
 <!-- ================= HEADER ================= -->
 
 <div align="center">
@@ -30,6 +31,26 @@
 The game features a bilingual interface, allowing users to choose between English and Spanish before starting. It also includes three difficulty levels, an interactive graphical interface, and a custom Cyber Gaming visual theme.
 
 This project was developed as part of my journey in software development, with a focus on Python programming, application logic, graphical interfaces, and version control.
+
+## 🖥️ Game Screenshots
+
+Explore the game's interface and different gameplay moments.
+
+<div align="center">
+
+### 🏠 Start Screen
+
+<img src="screenshorts/start.png.png" width="350" alt="Guess The Number start screen">
+
+### 🎯 Gameplay
+
+<img src="screenshorts/gameplay.png.png" width="350" alt="Guess The Number gameplay screen">
+
+### 🏆 Victory Screen
+
+<img src="screenshorts/victory.png.png" width="350" alt="Guess The Number victory screen">
+
+</div>
 
 ## ✨ Features
 
@@ -87,10 +108,15 @@ Alternatively, open the GitHub repository, click **Code → Download ZIP**, and 
 
 ### 3. Check the Project Files
 
-Make sure both files are inside the same project folder:
+Make sure the project contains the following files and folders:
 
 ```text
 game_guess_the_number/
+│
+├── screenshorts/
+│   ├── start.png.png
+│   ├── gameplay.png.png
+│   └── victory.png.png
 │
 ├── game.py
 ├── background.png
@@ -137,10 +163,11 @@ The game window should open, allowing you to select your preferred language and 
 
 ## 📁 Project Structure
 
-| File | Description |
+| File or Folder | Description |
 |:---|:---|
 | `game.py` | Main game script containing the game logic, interface, language selection, and difficulty settings. |
 | `background.png` | Custom background image used in the game's graphical interface. |
+| `screenshorts/` | Folder containing the game's screenshots. |
 | `README.md` | Project documentation and installation instructions. |
 
 ## 🎯 Project Purpose
@@ -166,6 +193,26 @@ This project represents a practical exercise in Python development, focusing on:
 El juego cuenta con una interfaz bilingüe que permite seleccionar entre español e inglés antes de comenzar. También incorpora tres niveles de dificultad, una interfaz gráfica interactiva y una estética visual personalizada inspirada en Cyber Gaming.
 
 Este proyecto fue desarrollado como parte de mi proceso de formación en desarrollo de software, con énfasis en programación con Python, lógica de aplicaciones, interfaces gráficas y control de versiones.
+
+## 🖥️ Capturas de pantalla
+
+Conoce la interfaz del videojuego y algunos de sus momentos principales.
+
+<div align="center">
+
+### 🏠 Pantalla de inicio
+
+<img src="screenshorts/start.png.png" width="350" alt="Pantalla de inicio de Adivina el Número">
+
+### 🎯 Durante el juego
+
+<img src="screenshorts/gameplay.png.png" width="350" alt="Pantalla de juego de Adivina el Número">
+
+### 🏆 Pantalla de victoria
+
+<img src="screenshorts/victory.png.png" width="350" alt="Pantalla de victoria de Adivina el Número">
+
+</div>
 
 ## ✨ Características principales
 
@@ -223,10 +270,15 @@ También puedes ingresar al repositorio en GitHub, seleccionar **Code → Downlo
 
 ### 3. Verificar los archivos del proyecto
 
-Asegúrate de que ambos archivos estén dentro de la misma carpeta:
+Asegúrate de que el proyecto contenga los siguientes archivos y carpetas:
 
 ```text
 game_guess_the_number/
+│
+├── screenshorts/
+│   ├── start.png.png
+│   ├── gameplay.png.png
+│   └── victory.png.png
 │
 ├── game.py
 ├── background.png
@@ -273,10 +325,11 @@ Se abrirá la ventana del videojuego, donde podrás seleccionar el idioma y el n
 
 ## 📁 Estructura del proyecto
 
-| Archivo | Descripción |
+| Archivo o carpeta | Descripción |
 |:---|:---|
 | `game.py` | Script principal del videojuego. Contiene la lógica, interfaz, selección de idioma y niveles de dificultad. |
 | `background.png` | Imagen personalizada utilizada como fondo de la interfaz gráfica del juego. |
+| `screenshorts/` | Carpeta que contiene las capturas de pantalla del videojuego. |
 | `README.md` | Documentación e instrucciones de instalación del proyecto. |
 
 ## 🎯 Objetivo del proyecto
@@ -293,7 +346,7 @@ Este proyecto representa un ejercicio práctico de desarrollo con Python, enfoca
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Author / Autor
 
 <div align="center">
 
@@ -301,9 +354,9 @@ Este proyecto representa un ejercicio práctico de desarrollo con Python, enfoca
 
 **Software Development Student | Aspiring Backend Developer**
 
-*Learning, building, and improving with every project.* /
-*Aprendiendo, construyendo y mejorando con cada proyecto.*
+*Learning, building, and improving with every project.*
 
+*Aprendiendo, construyendo y mejorando con cada proyecto.*
 
 </div>
 
